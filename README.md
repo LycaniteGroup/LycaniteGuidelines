@@ -14,7 +14,7 @@ You must create your branch accordingly to its type:
 
 ## Pull request
 
-The pull request you create must be understandable and must be linked to an issue.
+The pull request you create must be understandable and must be linked to an issue.  
 The pull request template is here to help you.
 
 ## Miscellaneous

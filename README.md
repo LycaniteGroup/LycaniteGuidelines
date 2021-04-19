@@ -8,9 +8,13 @@ There are different types of branches:
 * refactor
 
 You must create your branch accordingly to its type:
-* feature:  `feat/{{issue_number}}-{{feature_title}}`
-* fix:      `fix/{{issue_number}}-{{fix_title}}`
-* refactor: `refactor/{{issue_number}}-{{refactor_title}}`
+| Branch Type | Name Format                                    |
+| :---------- | :--------------------------------------------- |
+| Feature     | `feat/{{issue_number}}-{{feature_title}}`      |
+| Fix         | `fix/{{issue_number}}-{{fix_title}}`           |
+| Refactor    | `refactor/{{issue_number}}-{{refactor_title}}` |
+
+:warning: `{{issue_number}}` you should replace this, with the ID of the issue
 
 ## Pull request
 

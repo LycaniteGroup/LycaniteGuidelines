@@ -31,4 +31,4 @@ The pull request template is here to help you.
 
 > :warning: When the pull request is validated please use the Rebase and merge option.
 
-> ℹ️ CI doesn't allow to push pull request that doesn't pass all the tests or doesn't pass linter configuration (depending on the project).
+> ℹ️ CI doesn't allow to merge pull request that doesn't pass all the tests or doesn't pass linter configuration (depending on the project).
